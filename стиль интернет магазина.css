@@ -1,0 +1,21 @@
+#filters, .product {
+	border: 5px solid black;
+}
+#main {
+	display: flex;
+	margin: auto;
+	width: 1000px;
+}
+#filters {
+	margin: 10px;
+	padding: 10px;
+}
+.line {
+	display: flex;
+}
+.product {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	padding: 10px;
+}
